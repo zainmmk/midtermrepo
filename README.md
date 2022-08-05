@@ -1,5 +1,6 @@
 # Midterm
 ## Project Goals
+- Main goal: predict arrival delays before a flight has departed
 - Using data from a POSTGRES database, form new features that hold predictive power out of the features present in the database
 - Using new created features and some old features, create a number of models that will predict arrival delays for flights before they have even departed
 - Pick the model that performs the best and finally use it on the actual data I want to predict arrival delays for
