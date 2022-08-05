@@ -1,3 +1,0 @@
-finish feature engineering by monday
-start modelling tuesday-thursday
-(still feature engineering tuesday-thursday, but main feature ideas are there monday)
